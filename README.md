@@ -17,7 +17,7 @@ online or offline — across **66 UNICEF-designated high-risk countries** and **
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-**[🌐 Live Demo](https://clima-guard-qepp.vercel.app)** &nbsp;·&nbsp; **
+**[🌐 Live Demo](https://clima-guard-qepp.vercel.app)** &nbsp;·&nbsp; 
 
 </div>
 
@@ -25,7 +25,7 @@ online or offline — across **66 UNICEF-designated high-risk countries** and **
 
 ## 🎥 Demo
 
-**[▶️ 5-minute demo video](https://youtu.be/07Hz9mUY9_Y)** &nbsp;·&nbsp;
+
 **[🌐 Try it live](https://clima-guard-qepp.vercel.app)** *(no login required)*
 
 > Inspired by the UNICEF Children's Climate Risk Report 2026 — *"1.1 billion
